@@ -1,0 +1,32 @@
+.t1{
+    background-color:coral;
+}
+.mc1{
+    width: 450px;
+    height: 400px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto; 
+    margin-top: 100px;
+    margin-bottom: auto; 
+    align-items:center;
+}
+.aro{margin-left: 10px;font-size: 50px;font-style: italic;font-weight: 300;}
+.b1{
+    margin-top: 30px;
+    margin-left:300px;
+}
+.ic1{margin-right: 20px;}
+.ic2{margin-left: 20px;}
+.ic3{margin-left: 450px;}
+
+.signup{
+    margin-left: 400px;
+    margin-top: 15px;
+}
+/* .in1{margin-left: 150px;}
+.in2{margin-left:150px ;} */
+.l1{margin-top: 35px;margin-left: 50px;padding: 10px;}
+.l2{margin-top: 10px;margin-left: 50px;padding-left: 10px;}
+.head{font-size: 40px;font-style: oblique;
+    margin-top: 20px;}
